@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emotion.Web", "Emotion.Web\Emotion.Web.csproj", "{010ED629-62E6-4B14-BF7F-D6FD2FC10DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010ED629-62E6-4B14-BF7F-D6FD2FC10DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010ED629-62E6-4B14-BF7F-D6FD2FC10DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010ED629-62E6-4B14-BF7F-D6FD2FC10DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010ED629-62E6-4B14-BF7F-D6FD2FC10DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579D16DC-65B8-4B78-8523-E6144F0DE808}
+	EndGlobalSection
+EndGlobal
